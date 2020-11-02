@@ -1,4 +1,3 @@
 ez egy teszt txt
 négy sornak kell benne lennie
-laksjdf
-aldksjf
+de ez most három
